@@ -335,9 +335,7 @@ If you're building something interesting in AI, Machine Learning, or intelligent
 
 🏆 Contributions
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Mohamed-Amir-Abozaid&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>---
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohamed-Amir-Abozaid&style=flat-square&color=blue" />
