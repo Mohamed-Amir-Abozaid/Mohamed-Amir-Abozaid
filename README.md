@@ -1,4 +1,4 @@
-👋 Hi, I'm Mohamed Amir
+<h1 align="center">Hi, I'm Mohamed Amir 👋</h1><h3 align="center"><br>
 
 <h3 align="center">
 AI / Machine Learning Engineer • Deep Learning • MLOps • AI Systems
@@ -329,8 +329,6 @@ If you're building something interesting in AI, Machine Learning, or intelligent
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Mohamed-Amir-Abozaid&theme=dark&hide_border=true&include_all_commits=true&count_private=false" />
-</p><p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mohamed-Amir-Abozaid&theme=dark&hide_border=true" />
 </p><p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mohamed-Amir-Abozaid&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
 </p>---
